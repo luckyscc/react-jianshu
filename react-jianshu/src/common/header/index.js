@@ -18,6 +18,8 @@ import {
     SearchInfoList
 } from './style';
 
+const getListArea = (show)
+
 const Header = (props) => {
 	return (
 		<HeaderWrapper>
