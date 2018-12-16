@@ -1,0 +1,42 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+            "id": 1,
+            "title": "社会热点",
+            "imgUrl": "//upload.jianshu.io/collections/images/11/20100120161805563.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+        },{
+            "id": 2,
+            "title": "手绘",
+            "imgUrl": "//upload.jianshu.io/collections/images/16/computer_guy.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+        }],
+        "articleList": [{
+            "id": 1,
+            "title": "日常晨跑",
+            "desc": "时间：每天清晨6：00； 让老婆养成跑步的习惯，坚持至少一个月以上。第一天，3km起步，低配速8min。缘起于前一晚老婆称重体重，几天体重上升了...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/11312474-0080dd796b82deb9.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },{
+            "id": 2,
+            "title": "日常晨跑",
+            "desc": "时间：每天清晨6：00； 让老婆养成跑步的习惯，坚持至少一个月以上。第一天，3km起步，低配速8min。缘起于前一晚老婆称重体重，几天体重上升了...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/11312474-0080dd796b82deb9.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },{
+            "id": 3,
+            "title": "日常晨跑",
+            "desc": "时间：每天清晨6：00； 让老婆养成跑步的习惯，坚持至少一个月以上。第一天，3km起步，低配速8min。缘起于前一晚老婆称重体重，几天体重上升了...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/11312474-0080dd796b82deb9.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },{
+            "id": 4,
+            "title": "日常晨跑",
+            "desc": "时间：每天清晨6：00； 让老婆养成跑步的习惯，坚持至少一个月以上。第一天，3km起步，低配速8min。缘起于前一晚老婆称重体重，几天体重上升了...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/11312474-0080dd796b82deb9.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        }],
+        "recommendList": [{
+            "id": 1,
+            "imgUrl": "http: //cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+        },{
+            "id": 2,
+            "imgUrl": "http: //cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+        }]
+    }
+}
